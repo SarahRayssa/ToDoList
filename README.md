@@ -2,7 +2,7 @@
 O projeto de lista de tarefas (To Do List) desenvolvido com JavaScript é uma ferramenta útil 
 para auxiliar profissionais na organização de suas atividades diárias. Além de, claro, a colocar a teoria da programação em prática! 👏
 ## Link para o Site:
-sarahrayssa.github.io/ToDoList/
+
 ## Linguagens Utilizadas:
 - HTML
 - CSS
